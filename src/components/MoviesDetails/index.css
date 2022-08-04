@@ -1,0 +1,55 @@
+.movie-card {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+}
+.movie-image {
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.movie-title {
+  font-family: 'bree serif';
+  font-weight: 500;
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+.span-text {
+  font-family: 'roboto';
+  font-weight: 600;
+  font-size: 15px;
+  color: #524e4e;
+}
+.text {
+  font-family: 'roboto';
+  font-weight: 400;
+  font-size: 15px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+.views-votes-container {
+  display: flex;
+  align-items: center;
+}
+.views-votes {
+  color: #0da087;
+  font-family: 'roboto';
+  font-weight: 400;
+  font-size: 15px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+.view-button {
+  border: none;
+  color: white;
+  background-color: rgb(70, 70, 224);
+  font-family: 'roboto';
+  font-weight: 400;
+  font-size: 12px;
+  margin-right: 5px;
+  margin-top: 10px;
+  height: 30px;
+}
+.details-container {
+  margin-left: 10px;
+}

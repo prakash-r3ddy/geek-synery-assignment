@@ -1,0 +1,9 @@
+.posts-loader-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+.movies-container {
+  list-style-type: none;
+  padding-left: 0px;
+}
